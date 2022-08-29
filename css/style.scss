@@ -1,0 +1,20 @@
+.header{
+    background-image: linear-gradient(to right,#27C9CB 100%, #3DE0E3
+ 100%
+    );
+    min-height: 895px;
+    .header-poster{
+        z-index: 1;
+        content: '';
+        top: 95%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+    .header-poster2{
+        z-index: 1;
+        content: '';
+        top: 95%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+}
